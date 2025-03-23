@@ -52,8 +52,8 @@ invoice-extractor/
 #### Clone the repo
 
 ```sh
-git clone https://github.com/your-username/invoice-extractor.git
-cd invoice-extractor/backend
+git clone https://github.com/AbhishekKantharia/FinancialDataExtractor.git
+cd FinancialDataExtractor/backend
 ```
 
 #### Create a virtual environment
