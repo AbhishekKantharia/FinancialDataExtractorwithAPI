@@ -5,9 +5,13 @@ An AI-powered invoice extraction application built with Django REST Framework an
 ## 🚀 Features
 
 ✅ User authentication (JWT-based)
+
 ✅ Invoice upload and validation (PDF, JPEG, PNG, TIFF)
+
 ✅ AI-based text extraction using Google Vision API
+
 ✅ Secure token-based API requests
+
 ✅ Frontend built with React & Tailwind CSS
 
 ## 📂 Project Structure
