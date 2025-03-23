@@ -130,8 +130,11 @@ GET	/api/invoices/{id}/	Get Invoice Details
 ## 🛠 Tech Stack
 
 ****Backend****: __Django REST Framework, PostgreSQL, JWT__
+
 ****Frontend****: __React, TypeScript, Tailwind CSS__
+
 ****AI Model****: __Google Cloud Vision API__
+
 ****Auth****: __JWT (djangorestframework-simplejwt)__
 
 
